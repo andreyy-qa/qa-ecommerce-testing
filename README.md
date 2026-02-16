@@ -26,3 +26,6 @@ Testing focused on core business flows, payment processing, and data validation.
 - HTTP 500 error detection
 - Business risk impact analysis
 - Defect prioritization (Severity / Priority)
+
+## Documentation:
+- [Web](./Documentation/Web.docx)
